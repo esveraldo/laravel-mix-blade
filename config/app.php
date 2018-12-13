@@ -13,7 +13,11 @@ return [
     |
     */
 
-    'name' => env('APP_NAME', 'Laravel'),
+    'name' => env('APP_NAME', 'Laravel-mix-blade'),
+    'logoSite' => 'Revenda Auto',
+    'corSite' => 'blue',
+    'descricaoSite' => 'Site de vendas de automoveis',
+    'autor' => 'Esveraldo',
 
     /*
     |--------------------------------------------------------------------------
